@@ -1,2 +1,2 @@
 # device-ops
-kepanjangan dari Device Operations
+Device Operations
